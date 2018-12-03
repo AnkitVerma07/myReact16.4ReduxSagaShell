@@ -18,11 +18,6 @@
     "@babel/runtime": "^7.0.0-beta.54",
     "@material-ui/core": "^1.2.3",
     "@material-ui/icons": "^3.0.1",
-    "@paciolan/pac-theme-base": "2018.7.16-28",
-    "@paciolan/primitives": "^0.4.2",
-    "@paciolan/tooltip": "^0.1.8",
-    "@paciolan/utilities": "*",
-    "@paciolan/virtualized-table": "^0.2.21",
     "babel-plugin-transform-runtime": "^6.23.0",
     "babel-polyfill": "^6.26.0",
     "es6-promise": "^4.2.4",
@@ -51,7 +46,6 @@
     "why-did-you-update": "^0.1.1"
   },
   "devDependencies": {
-    "@paciolan/dynamic-loader": "^1.1.1",
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
     "babel-eslint": "^8.2.6",
